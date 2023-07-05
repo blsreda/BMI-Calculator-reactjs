@@ -5,6 +5,7 @@ The BMI Calculator app is a tool that allows users to calculate their Body Mass 
 
 
 
+![bmi](https://github.com/blsreda/BMI-Calculator-reactjs/assets/121299700/59508684-a1cf-46d8-9ad9-c34b836d1916)
 
 
 
